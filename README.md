@@ -1,4 +1,4 @@
-# SidsStockAnalysis
+# Stock Analysis
 ## Purpose
 The basic purpose of this project was to experiment with different machine learning models used in the industry, and apply them to the real world example of stock forecasting. More specifically, this project looks at how well different models can predict what price a certain companies stock will close at tomorrow given what that companies stock closed at yesterday.
 
